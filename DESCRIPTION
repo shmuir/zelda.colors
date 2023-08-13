@@ -1,12 +1,13 @@
 Package: zelda.colors
-Title: What the Package Does (One Line, Title Case)
+Title: Legend of Zelda Color Palettes
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+    person("Sam", "Muir", , "shmuir1@gmail.com", role = c("aut", "cre"))
+Description: Color palettes inspired by games in The Legend of Zelda video game franchise. 
+    Built using the 'palettes' package, which provides methods for
+    printing, formatting, casting and coercion, extraction and updating of
+    components, plotting, colour mixing arithmetic, and colour interpolation.
+License: CC0
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
