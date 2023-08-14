@@ -4,13 +4,13 @@ library(palettes)
 
 # Discrete palettes -----------------------------------------------------------
 zelda_palettes_discrete <- pal_palette(
-  past_light = c("#dc8951", "#4E8AC9", "#F5D06D", "#69ca97", "#c978b5"),
-  past_dark = c("#EE6720", "#0792C9", "#E4B854", "#24B079", "#9A4F80"),
+  past_light = c("#1b7839", "#c0e741", "#f8f880", "#f5c83d", "#e4a69c", "#a6806e", "#81564e", "#bb3e06"),
+  past_dark = c("#0d0d0d","#622904", "#bf4e27", "#e58630", "#e1b339", "#b48712"),
   awakening_light = c(),
   awakening_dark = c(),
-  ocarina_light = c(),
-  ocarina_dark = c(),
-  majora_light = c(),
+  ocarina_light = c("#f5dee1","#e6b9cb","#d8ddf0", "#aeb1d7","#4851f7","#9cc83a", "#309d15"),
+  ocarina_dark = c("#c19c6e","#b4bb91", "#55884f", "#1e4513", "#4f5076","#2a284e","#522346"),
+  majora_light = c("#f3ecba", "#ffff51","#6efe6c", "#2febca","#16399d", "#e5e0f4","#b8abd1","#595280", "#fe903f"),
   majora_dark = c(),
   wind_light = c(),
   wind_dark = c(),
